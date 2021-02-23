@@ -83,7 +83,14 @@ Lagos.</li>
                                         <ul id="navigation">                                                                                                                                     
                                             <li><a href="index.php">Home</a></li>
                                             <li><a href="about.php">About</a></li>
-                                            <li><a href="services.php">Services</a></li>
+                                            <li>
+                                                <a href="services.php">Services</a>
+                                                <ul class="submenu">
+                                                    <li><a href="#">Power Solution</a></li>
+                                                    <li><a href="#">Electronic Security</a></li>
+                                                    <li><a href="#">Telecom Services</a></li>
+                                                </ul>
+                                            </li>
                                             <li><a href="#">Training</a></li>
                                         </ul>
                                     </nav>

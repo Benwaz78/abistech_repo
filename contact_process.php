@@ -22,7 +22,7 @@
 	    $logo = 'assets/images/footer-logo.png';
 	    $link = '#';
 
-		$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Express Mail</title></head><body>";
+		$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Email Content</title></head><body>";
 		$body .= "<table style='width: 100%;'>";
 		$body .= "<thead style='text-align: left;'><tr><td style='border:none;' colspan='2'>";
 		$body .= "<a href='{$link}'><img src='{$logo}' alt=''></a><br><br>";
@@ -38,9 +38,6 @@
 		$body .= "<tr><td colspan='2' style='border:none;'><strong>Message:</strong> <br>{$cmessage}</td></tr>";
 		$body .= "</tbody></table>";
 		$body .= "</body></html>";
-		echo $body;
-		die();
-
 	    $send = @mail($to, $subject, $body, $headers);
 	    if(!$send){
 	    	$emailError .= "<div class='alert alert-danger'>Could not send mail</div>";

@@ -2,6 +2,20 @@
 <?php require_once('templates/header.php') ?>
 
     <main>
+      <div class="slider-area ">
+          <!-- Mobile Menu -->
+          <div class="single-slider slider-height2 d-flex align-items-center" data-background="assets/img/hero/services_hero.jpg" style="background-image: url(&quot;assets/img/hero/services_hero.jpg&quot;);">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-xl-12">
+                          <div class="hero-cap text-center">
+                              <h2>Our Services</h2>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+        </div>
         <section class="blog_area single-post-area section-padding">
               <div class="container">
                  <div class="row">
