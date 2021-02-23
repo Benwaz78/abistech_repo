@@ -32,6 +32,7 @@
                         <!-- Contact form Start -->
                         <div class="form-wrapper">
                            <?php echo $emailError ?>
+                           <?php echo $emailSuccess ?>
                             <form id="contact-form" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>#email-form" method="POST">
                                 <div class="row">
                                     <div class="col-lg-6 col-md-6">
@@ -59,10 +60,10 @@
                                     <div class="col-lg-6 col-md-6 mb-30">
                                         <div class="select-itms">
                                             <select name="service" id="select1" class="form-control">
-                                                <option value="">Services</option>
-                                                <option value="">Services-1</option>
-                                                <option value="">Services-2</option>
-                                                <option value="">Services-3</option>
+                                                <option value="" selected="selected">Choose service</option>
+                                                <option value="Power Solution">Power Solution</option>
+                                                <option value="Electronic Security">Electronic Security</option>
+                                                <option value="Telecom Services">Telecom Services</option>
                                             </select>
                                         </div>
                                     </div>

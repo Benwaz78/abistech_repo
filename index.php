@@ -23,6 +23,12 @@
                <div class="slide" style='display:none;'>
                    <img src="assets/images/slides/access-control.jpg">
                </div>
+               <div class="slide" style='display:none;'>
+                   <img src="assets/images/slides/electronic-security-home.jpg">
+               </div>
+               <div class="slide" style='display:none;'>
+                   <img src="assets/images/slides/power-solution-people.jpg">
+               </div>
            </div>
 
            <div id="slider-text" class="pure-u">
@@ -41,12 +47,14 @@
 
 
            <ul class="slider-tags">
-               <li>Solar Panel</li>
-               <li>Batteries</li>
-               <li>Switch</li>
-               <li>Breaker</li>
-               <li>Towers</li>
-               <li>Access Control</li>
+               <li>Solar Power Solution</li>
+               <li>Battery Power Solution</li>
+               <li>Telecom Services</li>
+               <li>Power Solution</li>
+               <li>Telecom Services</li>
+               <li>Electronic Access Control</li>
+               <li>Electronic Security</li>
+               <li>Power Solution</li>
            </ul>
 
        </div>
@@ -96,7 +104,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-recent-cap mb-30">
                             <div class="recent-img">
-                                <img src="assets/images/powersolution.jpg" alt="">
+                                <img src="assets/images/power-solution-post-1.jpg" alt="">
                             </div>
                             <div class="recent-cap">
                                 <h4><a href="#">Power Solution</a></h4>
@@ -106,27 +114,57 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-recent-cap mb-30">
                             <div class="recent-img">
-                                <img src="assets/images/electronics-security.jpg" alt="">
+                                <img src="assets/images/power-solution-post-2.jpg" alt="">
                             </div>
                             <div class="recent-cap">
-                                <h4><a href="#">Electronics Security</a></h4>
+                                <h4><a href="#">Power Solution</a></h4>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-recent-cap mb-30">
                             <div class="recent-img">
-                                <img src="assets/images/telecom-services-1.jpg" alt="">
+                                <img src="assets/images/power-solution-post-3.jpg" alt="">
                             </div>
                             <div class="recent-cap">
-                                <h4><a href="#">Telecom Services</a></h4>
+                                <h4><a href="#">Power Solution</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-recent-cap mb-30">
+                            <div class="recent-img">
+                                <img src="assets/images/electronics-security1.jpg" alt="">
+                            </div>
+                            <div class="recent-cap">
+                                <h4><a href="#">Electronic Security</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-recent-cap mb-30">
+                            <div class="recent-img">
+                                <img src="assets/images/electronics-security2.jpg" alt="">
+                            </div>
+                            <div class="recent-cap">
+                                <h4><a href="#">Electronic Security</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-recent-cap mb-30">
+                            <div class="recent-img">
+                                <img src="assets/images/electronics-security3.jpg" alt="">
+                            </div>
+                            <div class="recent-cap">
+                                <h4><a href="#">Electronic Security</a></h4>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="d-flex justify-content-center py-4">
+                <!-- <div class="d-flex justify-content-center py-4">
                     <a href="services.php" class="btn site-color-btn">More Services</a>
-                </div>
+                </div> -->
             </div>
         </div>
         <!-- Service Area End-->

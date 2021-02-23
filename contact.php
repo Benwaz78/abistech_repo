@@ -58,6 +58,7 @@
                     </div>
                     <div class="col-lg-8">
                         <?php echo $emailError ?>
+                        <?php echo $emailSuccess ?>
                         <form class="form-contact contact_form" 
                         action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']) ?>#email-message" method="POST" id="contactForm">
                             <div class="row">
@@ -84,9 +85,10 @@
                                 <div class="col-sm-12">
                                     <div class="form-group">
                                         <select name="service" class="form-control" id="service">
-                                            <option value="Select 1">Select 1</option>
-                                            <option value="Select 1">Select 2</option>
-                                            <option value="Select 1">Select 3</option>
+                                            <option value="" selected="selected">Choose service</option>
+                                            <option value="Power Solution">Power Solution</option>
+                                            <option value="Electronic Security">Electronic Security</option>
+                                            <option value="Telecom Services">Telecom Services</option>
                                         </select>
                                     </div>
                                 </div>
