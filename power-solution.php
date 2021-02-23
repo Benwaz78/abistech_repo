@@ -17,7 +17,7 @@
               </div>
           </div>
         </div>
-        <section class="blog_area single-post-area service-content section-padding">
+        <section class="blog_area single-post-area service-content section-line">
               <div class="container">
                  <div class="row no-gutters">
                     <div class="col-md-6">
@@ -38,6 +38,101 @@
                  
             </div>
         </section>
+        <hr>
+        <section>
+            <!-- Service Area Start -->
+        <div class="recent-area section-padding">
+            <div class="container">
+                <!-- section tittle -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-tittle text-center">
+                            <h2>Our Services</h2>
+                        </div>
+                    </div>
+                </div>
+           
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-recent-cap mb-30">
+                            <div class="recent-img">
+                                <img src="assets/images/power-solution-post-1.jpg" alt="">
+                            </div>
+                            <div class="recent-cap">
+                                <h4><a href="#">Power Solution</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-recent-cap mb-30">
+                            <div class="recent-img">
+                                <img src="assets/images/power-solution-post-2.jpg" alt="">
+                            </div>
+                            <div class="recent-cap">
+                                <h4><a href="#">Power Solution</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-recent-cap mb-30">
+                            <div class="recent-img">
+                                <img src="assets/images/power-solution-post-3.jpg" alt="">
+                            </div>
+                            <div class="recent-cap">
+                                <h4><a href="#">Power Solution</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-recent-cap mb-30">
+                            <div class="recent-img">
+                                <img src="assets/images/power-solution-post-6.jpg" alt="">
+                            </div>
+                            <div class="recent-cap">
+                                <h4><a href="#">Power Solution</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-recent-cap mb-30">
+                            <div class="recent-img">
+                                <img src="assets/images/power-solution-post-5.jpg" alt="">
+                            </div>
+                            <div class="recent-cap">
+                                <h4><a href="#">Power Solution</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-recent-cap mb-30">
+                            <div class="recent-img">
+                                <img src="assets/images/electronics-security3.jpg" alt="">
+                            </div>
+                            <div class="recent-cap">
+                                <h4><a href="#">Power Solution</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-recent-cap mb-30">
+                            <div class="recent-img">
+                                <img src="assets/images/telecom-services-2.jpg" alt="">
+                            </div>
+                            <div class="recent-cap">
+                                <h4><a href="#">Telecom Services</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="d-flex justify-content-center py-4">
+                    <a href="services.php" class="btn site-color-btn">More Services</a>
+                </div> -->
+            </div>
+        </div>
+
+        </section>
+
+
 
 
         <?php require_once('templates/contact-section.php') ?>

@@ -100,6 +100,7 @@
                         </div>
                     </div>
                 </div>
+           
                 <div class="row">
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-recent-cap mb-30">
@@ -158,6 +159,16 @@
                             </div>
                             <div class="recent-cap">
                                 <h4><a href="#">Electronic Security</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-recent-cap mb-30">
+                            <div class="recent-img">
+                                <img src="assets/images/telecom-services-2.jpg" alt="">
+                            </div>
+                            <div class="recent-cap">
+                                <h4><a href="#">Telecom Services</a></h4>
                             </div>
                         </div>
                     </div>

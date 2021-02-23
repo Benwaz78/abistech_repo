@@ -345,5 +345,15 @@ Media Queries
         background-color:grey;
     }
 
+    .section-line{
+        margin-top: 150px;
+        /* padding-bottom:150px !important; */
+    }
+    
+}
+.section-line{
+    margin-top: 150px;
+    /* padding-bottom:150px !important; */
+}
 /* NEWLY ADDED CSS   */
  
