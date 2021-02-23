@@ -341,5 +341,9 @@ Media Queries
         padding: 0 1em;
     }
 
+    .service-content{
+        background-color:grey;
+    }
 
-  
+/* NEWLY ADDED CSS   */
+ 
